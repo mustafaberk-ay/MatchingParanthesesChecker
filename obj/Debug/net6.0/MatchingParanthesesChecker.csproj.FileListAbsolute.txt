@@ -1,0 +1,15 @@
+C:\Users\aymus\source\repos\MatchingParanthesesChecker\bin\Debug\net6.0\MatchingParanthesesChecker.exe
+C:\Users\aymus\source\repos\MatchingParanthesesChecker\bin\Debug\net6.0\MatchingParanthesesChecker.deps.json
+C:\Users\aymus\source\repos\MatchingParanthesesChecker\bin\Debug\net6.0\MatchingParanthesesChecker.runtimeconfig.json
+C:\Users\aymus\source\repos\MatchingParanthesesChecker\bin\Debug\net6.0\MatchingParanthesesChecker.dll
+C:\Users\aymus\source\repos\MatchingParanthesesChecker\bin\Debug\net6.0\MatchingParanthesesChecker.pdb
+C:\Users\aymus\source\repos\MatchingParanthesesChecker\obj\Debug\net6.0\MatchingParanthesesChecker.csproj.AssemblyReference.cache
+C:\Users\aymus\source\repos\MatchingParanthesesChecker\obj\Debug\net6.0\MatchingParanthesesChecker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aymus\source\repos\MatchingParanthesesChecker\obj\Debug\net6.0\MatchingParanthesesChecker.AssemblyInfoInputs.cache
+C:\Users\aymus\source\repos\MatchingParanthesesChecker\obj\Debug\net6.0\MatchingParanthesesChecker.AssemblyInfo.cs
+C:\Users\aymus\source\repos\MatchingParanthesesChecker\obj\Debug\net6.0\MatchingParanthesesChecker.csproj.CoreCompileInputs.cache
+C:\Users\aymus\source\repos\MatchingParanthesesChecker\obj\Debug\net6.0\MatchingParanthesesChecker.dll
+C:\Users\aymus\source\repos\MatchingParanthesesChecker\obj\Debug\net6.0\refint\MatchingParanthesesChecker.dll
+C:\Users\aymus\source\repos\MatchingParanthesesChecker\obj\Debug\net6.0\MatchingParanthesesChecker.pdb
+C:\Users\aymus\source\repos\MatchingParanthesesChecker\obj\Debug\net6.0\MatchingParanthesesChecker.genruntimeconfig.cache
+C:\Users\aymus\source\repos\MatchingParanthesesChecker\obj\Debug\net6.0\ref\MatchingParanthesesChecker.dll
